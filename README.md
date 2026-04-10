@@ -1,4 +1,4 @@
-# TITANIC_modelling
+# TITANIC Kaggle modelling
 
 TITANIC_modelling is a data science project based on the well-known Kaggle Titanic dataset, aiming to predict passenger survival using machine learning techniques.
 
